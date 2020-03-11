@@ -22,4 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-!executavel/
+!executavel/easy_work.jar
+!executavel/lib
+!executavel/lib/itextpdf-5.5.13.jar
+!executavel/lib/sqlite-jdbc-3.27.2.1.jar
